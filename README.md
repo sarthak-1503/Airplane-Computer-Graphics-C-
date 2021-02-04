@@ -1,0 +1,1 @@
+This project aims at designing and visualizing how an airplane looks during its flight using Computer graphics. In order to accomplish the goal of this project, various computer graphics functions like line, arc, ellipse etc. functions are used in the project in c++ programming language.
